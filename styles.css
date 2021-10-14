@@ -81,7 +81,7 @@ main {
 }
 
 /* Mobile Size Settings */
-@media (max-width:840px) {
+@media (max-width:1080px) {
   header {
     display: table;
     margin: auto;
